@@ -1,2 +1,2 @@
 # Engenharia de Software
-Repositório para aulas do 5º Semestre
+Repositório para aulas 3 do laboratório
