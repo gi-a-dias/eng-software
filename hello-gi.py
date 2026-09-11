@@ -1,2 +1,3 @@
-print hello word
-print HELLO WORD
+print (hello word)
+print (HELLO WORD)
+print (HeLLo wOrD)
