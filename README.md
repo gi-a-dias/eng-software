@@ -1,2 +1,2 @@
-# eng-software
-Resositório para aulas do semestre
+# Engenharia de Software
+Resositório para aulas do 5º Semestre
