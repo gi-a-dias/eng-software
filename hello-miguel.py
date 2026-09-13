@@ -1,11 +1,13 @@
-print("hello, world")
+print("Hello, world")
 
-print("how are you?")
+print("Good Morning")
+
+print("How are you?")
 
 print("I'm fine, thank you")
 
 print("I need to go now")
 
-print("I will come meet you again tomorrow")
+print("See you later")
 
-print("good bye, world")
+print("In case I don't see ya... good afternoon, good evening, and good night.")
