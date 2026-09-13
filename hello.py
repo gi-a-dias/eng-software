@@ -1,5 +1,7 @@
 print("hello, world")
 
-print("hello, moon")
+print("how are you?")
 
-print("hello, sun")
+print("I'm fine, thank you")
+
+print("good bye, world")
